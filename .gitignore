@@ -1,6 +1,9 @@
-# Data
-.xlsx
-.csv
+# Ignore Excel and CSV files in the data folder
+*.csv
+*.xlsx
+*.xls
+
+.vscode/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
